@@ -1,1 +1,2 @@
-name = 'testproject'
+from setuptools import setup
+setup(name  = 'testproject')
